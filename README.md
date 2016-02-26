@@ -19,7 +19,7 @@ final int screenBytes = screenHeight * screenWidth * 4;
 * Add a custom request handler
 
 ## Contact:
-*[![Twitter](https://cdn-static.findly.com/wp-content/uploads/sites/43/2015/12/twitter-icon-40x40.png)](http://twitter.com/ashishkrishnan)
-  
+[![Twitter](https://cdn-static.findly.com/wp-content/uploads/sites/43/2015/12/twitter-icon-40x40.png)](http://twitter.com/ashishkrishnan)
+[![Facebook](http://njitrobotics.com/wp-content/uploads/2015/07/facebook-icon-40x40.png)](http://facebook.com/ashishkrishnan)
 
 
